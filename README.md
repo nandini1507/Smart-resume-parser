@@ -83,3 +83,6 @@ Support more file formats (TXT, RTF)
 Deploy on Streamlit Cloud for live demo
 
 Build recruiter dashboard with filters
+
+## Simply click the below link for the website
+https://smart-resume-parser.netlify.app/
